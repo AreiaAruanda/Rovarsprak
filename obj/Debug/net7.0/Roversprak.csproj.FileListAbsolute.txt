@@ -1,0 +1,14 @@
+C:\Users\lipsk\source\repos\Roversprak\bin\Debug\net7.0\Roversprak.exe
+C:\Users\lipsk\source\repos\Roversprak\bin\Debug\net7.0\Roversprak.deps.json
+C:\Users\lipsk\source\repos\Roversprak\bin\Debug\net7.0\Roversprak.runtimeconfig.json
+C:\Users\lipsk\source\repos\Roversprak\bin\Debug\net7.0\Roversprak.dll
+C:\Users\lipsk\source\repos\Roversprak\bin\Debug\net7.0\Roversprak.pdb
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\Roversprak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\Roversprak.AssemblyInfoInputs.cache
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\Roversprak.AssemblyInfo.cs
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\Roversprak.csproj.CoreCompileInputs.cache
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\Roversprak.dll
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\refint\Roversprak.dll
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\Roversprak.pdb
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\Roversprak.genruntimeconfig.cache
+C:\Users\lipsk\source\repos\Roversprak\obj\Debug\net7.0\ref\Roversprak.dll
